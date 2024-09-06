@@ -10,4 +10,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Malvi-Kanadia-Learning-Angular';
+  firstname:string ='malvi';
+  lastname:string='kanadia';
+
 }
